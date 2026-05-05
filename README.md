@@ -1,16 +1,34 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**MHDoh/MHDoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🩵 Hi there, I'm Mohammad 👋
 
-Here are some ideas to get you started:
+### Welcome to my GitHub profile
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 GitHub Statistics
+
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=MHDoh&show_icons=true&theme=transparent&title_color=87CEEB&text_color=87CEEB&icon_color=87CEEB&border_color=87CEEB" 
+  alt="GitHub Stats" 
+/>
+
+<br/>
+
+<img 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=MHDoh&theme=transparent&ring=87CEEB&fire=87CEEB&currStreakLabel=87CEEB&sideLabels=87CEEB&dates=87CEEB&border=87CEEB" 
+  alt="GitHub Streak" 
+/>
+
+<br/>
+
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHDoh&layout=compact&theme=transparent&title_color=87CEEB&text_color=87CEEB&border_color=87CEEB" 
+  alt="Top Languages" 
+/>
+
+---
+
+### 🩵 Thanks for visiting my profile
+
+</div>
