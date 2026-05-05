@@ -46,10 +46,6 @@
 
 ## 📊 GitHub Statistics
 
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=MHDoh&show_icons=true&bg_color=E0F7FF&title_color=0077B6&text_color=023E8A&icon_color=0096C7&border_color=87CEEB" 
-  alt="GitHub Stats" 
-/>
 
 <br/>
 <br/>
@@ -61,11 +57,6 @@
 
 <br/>
 <br/>
-
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHDoh&layout=compact&bg_color=E0F7FF&title_color=0077B6&text_color=023E8A&border_color=87CEEB" 
-  alt="Top Languages" 
-/>
 
 ---
 
